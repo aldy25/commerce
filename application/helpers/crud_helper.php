@@ -26,7 +26,7 @@ function crud_join_where($tbLeft,$tbRight,$tbLeftCol,$tbRightCol,$cond,$col = NU
     }
 }
 
-function crud_selwhere($table,$col = NULL,$clause)
+function crud_selwhere($table,$clause,$col = NULL)
 {
     $ci = get_instance();
     if($col == NULL)

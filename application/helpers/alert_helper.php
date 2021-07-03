@@ -1,5 +1,5 @@
 <?php
-function alertFire($type = NULL,$title)
+function alertFire($title,$type = NULL)
 {
     if($type !== NULL)
     {
