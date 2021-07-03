@@ -8,6 +8,6 @@ class Renderer extends MY_Controller
 	   parent::__construct();
 	}
 	public function(){
-
+$tes='cuk';
 	}
 }
