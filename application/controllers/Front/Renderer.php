@@ -9,5 +9,6 @@ class Renderer extends MY_Controller
 	}
 	public function(){
 $tes='cuk';
+//hsgbfigbedfuygbyd
 	}
 }
