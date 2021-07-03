@@ -6,7 +6,7 @@
 <script src="https://kit.fontawesome.com/373b9f077c.js" crossorigin="anonymous"></script>
 
 <!-- Parallax -->
-<script src="<?= base_url() ?>assets/system/front/plugins/parallax/src/parallax.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 
 <!-- Sweetalert -->
 <script src="<?= base_url() ?>assets/system/front/plugins/sweetalert/sweetalert.min.js"></script>
@@ -15,7 +15,7 @@
 <script src="<?= base_url() ?>assets/system/front/plugins/moment/moment.js"></script>
 
 <!-- ScrollReveal -->
-<script src="https://unpkg.com/scrollreveal"></script>
+<script src="<?= base_url() ?>assets/system/front/plugins/reveal/reveal.js"></script>
 
 <!-- Slick -->
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
@@ -23,3 +23,4 @@
 <!-- Natives -->
 <script src="<?= base_url() ?>assets/system/front/native/js/AjaxApi.js"></script>
 <script src="<?= base_url() ?>assets/system/front/native/js/ImageReader.js"></script>
+<script src="<?= base_url() ?>assets/system/front/native/js/script.js"></script>
