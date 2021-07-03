@@ -89,7 +89,7 @@ $autoload['drivers'] = array();
 |
 |	$autoload['helper'] = array('url', 'file');
 */
-$autoload['helper'] = array("url","report","ajaxfilter","flashdata","secure","response","dateconvert","alert","crud","curl","math","date","debug","http","mail","phone","pref","ses","jsonres");
+$autoload['helper'] = array("md5","url","report","ajaxfilter","flashdata","secure","response","dateconvert","alert","crud","curl","math","date","debug","http","mail","phone","pref","ses","jsonres");
 
 /*
 | -------------------------------------------------------------------
